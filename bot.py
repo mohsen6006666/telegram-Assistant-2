@@ -311,3 +311,5 @@ class TelegramBot:
         """Run the bot"""
         logger.info("Starting bot...")
         self.bot.infinity_polling()
+
+# second edit
